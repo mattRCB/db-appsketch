@@ -1,0 +1,15 @@
+Users
+	_id:
+	username:
+	hashed_password:
+	snippets: [ <snippet ids here> ]
+
+
+Snippets
+	_id:
+	body:
+	title:
+	desc:
+	type: --> public, private
+	lang:
+	tags:
